@@ -1,3 +1,5 @@
-### 素数かどうかを判定するアプリです。
+# PrimeNumberCheck
+
+### Judging a prime number.
 
 ##### :1
