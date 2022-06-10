@@ -1,5 +1,5 @@
 # PrimeNumberCheck
 
-### Judging a prime number.
+### Determine prime numbers
 
 ##### :1
