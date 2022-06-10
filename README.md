@@ -1,5 +1,5 @@
 # PrimeNumberCheck
 
-### Determine prime numbers
+### Determines if a number is prime or not.
 
 ##### :1
